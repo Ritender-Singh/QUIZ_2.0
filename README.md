@@ -1,7 +1,7 @@
 # QUIZ_2.0
 Welcome to the Quiz Game app repository! This project allows you to play custom quiz games. Built with HTML, CSS, JavaScript, and Python Flask, it features a user-friendly interface and an API for extended functionality.
 
-Table of Contents
+# Table of Contents
 
 Features
 Installation
@@ -10,7 +10,9 @@ API Documentation
 Contributing
 License
 Contact
-Features
+
+
+# Features
 
 User-Friendly Interface: Create and play quizzes with an intuitive interface.
 Diverse Question Types: Supports multiple-choice, true/false, fill-in-the-blank, and matching questions.
@@ -20,7 +22,7 @@ Detailed Analytics: Tracks performance with detailed reports.
 Responsive Design: Works seamlessly on all devices.
 API Integration: Extend functionality with a robust API.
 
-
+# 
 Installation
 Prerequisites
 Python 3.x
@@ -30,15 +32,15 @@ Git
 SQL lite
 
 
-Setup:
-Clone the Repository
+# Setup:
+  Clone the Repository
 
-Navigate to the Project Directory
-cd Quiz-Game
-Backend Setup
-Create a virtual environment
-python -m venv venv
-Activate the virtual environment
+  Navigate to the Project Directory
+  cd Quiz-Game
+  Backend Setup
+  Create a virtual environment
+  python -m venv venv
+  Activate the virtual environment
 # On Windows
 venv\Scripts\activate
 # On macOS/Linux
@@ -69,10 +71,10 @@ Commit your changes (git commit -m 'Add some feature')
 Push to the branch (git push origin feature/your-feature)
 Open a pull request
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+# Contact
 For any questions or feedback, please open an issue or contact us at ritendersinghdasila@gmail.com 
 
 Thank you for checking out the Quiz Game app! We hope you find it useful and fun. Happy quizzing!
